@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+
+}
+
+
+
+ul{
+    display: flex;
+    align-items: center;
+} 
+nav{
+    
+    border-bottom: 1px seagreen;
+    position: fixed;
+    width: 100%;
+    color: seagreen;
+}
+label.logo{
+    text-align: center;
+    font-size: 75pix;
+    line-height: 80px;
+    padding: 0px;
+    font-weight: bolder;
+    color: teal;
+}
+nav li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 210px;
+    font-size: 25px;
+    position: relative;
+}
+link{
+    text-align: center;
+}
+.home{
+     font-family: 'Klee One', cursive;
+}
+.coursestxt{
+    color: #FFC947;
+    width: 100%;
+    position: relative;
+    margin-top: -45%;
+    font-size: 22px;
+}
+ol{
+    color: #FB7AFC;
+}

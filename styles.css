@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+form{
+    text-align: center;
+}
+body{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+
+}
+.content-wrapper{
+    width: 80%;
+    margin: 4% 10% 5% 10%;
+}
+.content-wrapper img{
+    width: 100%;
+    border-radius: 90%;
+    
+}
+.text-wrapper{
+    font-size: 25px;
+    width: 100%;
+    position: relative;
+    margin-top: -40%;
+    font-style: oblique;
+    color: #FFC947;
+}
+.contact{
+    font-family: 'Allison', cursive;
+}
+.contact-text{
+    font-size: 20px;
+
+    text-align: center;
+    width: 100%;
+    position: relative;
+    margin-top: -40%;
+    font-style: oblique;
+    color: #FFC947;
+
+}
+
